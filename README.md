@@ -11,6 +11,7 @@
   🔐 AES-Encrypted Password Manager
 </h3>
 
+>>>>>>> 75de9c3b7290670935d9937d7df6e1dd4f4b7023
 <h5 align="center">
    A simple, secure command-line password manager built in Python.<br>Encrypts your credentials using AES (Fernet) and stores them in a local vault.
 </h5>
