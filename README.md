@@ -11,7 +11,6 @@
   🔐 AES-Encrypted Password Manager
 </h3>
 
->>>>>>> 75de9c3b7290670935d9937d7df6e1dd4f4b7023
 <h5 align="center">
    A simple, secure command-line password manager built in Python.<br>Encrypts your credentials using AES (Fernet) and stores them in a local vault.
 </h5>
@@ -26,6 +25,7 @@
 - JSON vault storage (`vault.json`)
 - CLI interface for interaction
 - Key security via `vault.key` (ignored by Git)
+- 🔐 Master password protection (added in v2)
 
 ---
 
@@ -42,6 +42,34 @@ To install dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## 🔐 Master Password System
+
+This password vault is protected by a master password to prevent unauthorized access.
+
+### 🛠️ Setup (Run Once):
+
+```bash
+python master_password.py
+```
+
+You'll be prompted to create your master password.  
+It will be encrypted and saved to a file named `master.key`.
+
+> ⚠️ **Important:** The `master.key` file is automatically excluded by `.gitignore`.  
+> Do **not** push it to GitHub or share it — it unlocks your entire vault.
+
+### 🔓 Unlocking the Vault
+
+Whenever you run:
+
+```bash
+python vault.py
+```
+
+You'll need to enter your master password before accessing or managing saved credentials.
 
 ---
 
