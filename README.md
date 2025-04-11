@@ -3,12 +3,17 @@
 ![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Password-Manager)
 ![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
 
-<h2 align="center">🔐 AES-Encrypted Password Manager</h2>
+<p align="center">
+  <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
+</p>
 
-<h4 align="center">
-A simple, secure command-line password manager built in Python.  
-Encrypts your credentials using AES (Fernet) and stores them in a local vault.
-</h4>
+<h3 align="center">
+  🔐 AES-Encrypted Password Manager
+</h3>
+
+<h5 align="center">
+   A simple, secure command-line password manager built in Python.<br>Encrypts your credentials using AES (Fernet) and stores them in a local vault.
+</h5>
 
 ---
 
