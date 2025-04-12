@@ -2,6 +2,11 @@
 ![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
 ![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Password-Manager)
 ![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
+![Encryption](https://img.shields.io/badge/%F0%9F%94%92-ENCRYPTION-darkgray)
+![AES](https://img.shields.io/badge/AES-256-blue)
+![Backend](https://img.shields.io/badge/Backend-Flask-informational)
+![Password](https://img.shields.io/badge/%F0%9F%94%91-Password%20Manager-gray)
+
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
@@ -148,14 +153,6 @@ Do not use it to store sensitive or production passwords without enhancements.
 ## 💻 Built by [@DecryptMike](https://github.com/DecryptMike)
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%91-Password%20Manager-gray"/>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen"/>
-  <img src="https://img.shields.io/badge/%F0%9F%94%92-ENCRYPTION-darkgray"/>
-  <img src="https://img.shields.io/badge/AES-256-blue"/>
-  <img src="https://img.shields.io/badge/Backend-Flask-informational"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
