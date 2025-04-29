@@ -35,7 +35,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="DecryptMike Pass Manager.png" width="100%" alt="Sign In Page">
+  <img src="DecryptMikePassManager.png" width="100%" alt="Sign In Page">
 </p>
 
 ---
