@@ -1,12 +1,10 @@
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)
-![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
-![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Password-Manager)
 ![Made With](https://img.shields.io/badge/Made%20with-Cryptography-green?logo=python)
 ![Encryption](https://img.shields.io/badge/%F0%9F%94%92-ENCRYPTION-darkgray)
 ![AES](https://img.shields.io/badge/AES-256-blue)
 ![Backend](https://img.shields.io/badge/Backend-Flask-informational)
 ![Password](https://img.shields.io/badge/%F0%9F%94%91-Password%20Manager-gray)
-
+![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
